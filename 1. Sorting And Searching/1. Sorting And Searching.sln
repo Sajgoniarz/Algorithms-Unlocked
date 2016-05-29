@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Search", "Binary Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Binary Search", "Recursive Binary Search\Recursive Binary Search.csproj", "{CC058DCC-C4B5-4DDD-8990-26D97EC99B47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection Sort", "Selection Sort\Selection Sort.csproj", "{AE23F971-290E-4042-BF18-3A920E7C260A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC058DCC-C4B5-4DDD-8990-26D97EC99B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC058DCC-C4B5-4DDD-8990-26D97EC99B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC058DCC-C4B5-4DDD-8990-26D97EC99B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE23F971-290E-4042-BF18-3A920E7C260A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE23F971-290E-4042-BF18-3A920E7C260A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE23F971-290E-4042-BF18-3A920E7C260A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE23F971-290E-4042-BF18-3A920E7C260A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
