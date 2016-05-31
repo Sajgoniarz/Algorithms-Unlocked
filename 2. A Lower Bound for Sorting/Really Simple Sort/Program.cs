@@ -17,7 +17,7 @@ namespace Really_Simple_Sort
         }
 
         static void Main(string[] args)
-        {
+        { 
             Random r = new Random();
             Console.WriteLine("Really Simple Sort");
             Console.WriteLine("Type - size");
