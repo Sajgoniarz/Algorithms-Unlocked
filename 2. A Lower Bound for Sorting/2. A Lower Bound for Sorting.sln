@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Keys Equal", "Count K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Keys Less", "Count Keys Less\Count Keys Less.csproj", "{44EEFECB-02A7-4DCE-B097-D7E799F10BFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rearrange", "Rearrange\Rearrange.csproj", "{6E744B8C-CC8E-4C81-A5F2-C86BD6D9F0A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{44EEFECB-02A7-4DCE-B097-D7E799F10BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44EEFECB-02A7-4DCE-B097-D7E799F10BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44EEFECB-02A7-4DCE-B097-D7E799F10BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E744B8C-CC8E-4C81-A5F2-C86BD6D9F0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E744B8C-CC8E-4C81-A5F2-C86BD6D9F0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E744B8C-CC8E-4C81-A5F2-C86BD6D9F0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E744B8C-CC8E-4C81-A5F2-C86BD6D9F0A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
